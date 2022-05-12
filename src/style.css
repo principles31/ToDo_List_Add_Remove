@@ -1,10 +1,10 @@
-body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-html body {
+body html {
   overflow-x: scroll;
 }
 
@@ -118,4 +118,4 @@ body {
   border-bottom: 1px solid #000;
   opacity: 0.6;
   cursor: pointer;
-} 
+}
