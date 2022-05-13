@@ -1,7 +1,7 @@
 import './style.css';
 
 let tasks = [];
-const taskWrapper = document.querySelector('.to-dos');
+const taskWrapper = document.querySelector('.to-do');
 const newTask = document.querySelector('.new-task');
 const addNewTask = document.querySelector('.submit');
 const clearAll = document.querySelector('.clear-all');
